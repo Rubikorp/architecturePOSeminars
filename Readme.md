@@ -37,3 +37,15 @@ __Выполнение:__
 ![4](sem7/ERD_wholesale_company_chart.JPG)
 ![5](sem7/UML_wholesale_company_chart.jpg)
 ![6](sem7/UI_UX.jpg)
+
+## Семинар 8. Типы архитектур прикладных приложений (мобильные): MVC, MVP, MVVM.
+
+__Домашнее задание__:
+Разработать экранные формы интерфейса в https://www.figma.com/ или https://app.diagrams.net/.
+Разработать полную ERD домена в https://www.dbdesigner.net/.
+Разработать блок-схему алгоритма взамодействия MVP.
+
+__Выполнение__:
+![7](sem8/ERD_Reservation_table.JPG)
+![8](sem8/UML_Reservation_table.JPG)
+![9](sem8/UI_UX_Reservation_table.jpg)
