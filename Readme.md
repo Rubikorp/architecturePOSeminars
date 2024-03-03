@@ -76,3 +76,11 @@ __Выполнение__:
 ![12](sem10/UseCase_robot_vacuum_cleaner.jpg)
 2. Interface:
 ![13](sem10/UI_UX.jpg)
+
+## Семинар 11. Сервис-ориентированные архитектуры
+__Выполнение__:
+1. ERD
+![14](sem11/ERD_robot_vacuum_cleaner.jpg)
+2. UML
+![15](sem11/UML_micro_authentication_service.jpg)
+3. OpenApi в директории sem11
